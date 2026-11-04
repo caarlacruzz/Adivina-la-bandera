@@ -1,0 +1,7 @@
+{
+  "eslint.enable": true,
+  "eslint.run": "onType",
+  "eslint.validate": ["javascript"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
