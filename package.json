@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vitest",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint src",
@@ -26,6 +26,7 @@
     "vitest": "^5.1.0"
   },
   "dependencies": {
-    "dayjs": "^1.11.23"
+    "dayjs": "^1.11.23",
+    "flag-icons": "^7.6.0"
   }
 }
